@@ -1,5 +1,6 @@
-# Auto detect text files and perform LF normalization
 *.html linguist-detectable=false
+*.python linguist-language=python
 *.teX linguist-detectable=false
+=======
 *.text linguist-detectable=false
 * text=auto
